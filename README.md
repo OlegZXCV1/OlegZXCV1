@@ -1,34 +1,19 @@
-👋 Hi, I'm Senior QA Automation Engineer (SDET)
+👋 Hi, I'm the Senior QA Automation Engineer (SDET)
 
 🔹 7+ years in FinTech, Telecom, and Enterprise testing
 🔹 Specializing in Java-based test automation, CI/CD, scalable frameworks, and quality architecture
 🔹 Passionate about clean code, reliability, and automation excellence
 
-🚀 About Me
-
 🔭 I’m currently working on:
 Building scalable automation frameworks, improving E2E stability, and strengthening CI/CD quality gates.
-
 🌱 I’m currently learning:
 Testcontainers, advanced Playwright automation, and AI-assisted testing strategies.
-
 👯 I’m looking to collaborate on:
 Open-source automation tools, performance testing frameworks, or anything related to SDET excellence.
-
 🤔 I’m looking for help with:
 Integrating ML/AI into automated quality pipelines.
-
 💬 Ask me about:
 Java + JUnit5, Selenium/Selenide, Playwright, Rest-Assured, mobile testing, performance testing, CI/CD, QA leadership.
-
-📫 How to reach me:
-Telegram / LinkedIn / Email (добавь свои ссылки)
-
-😄 Pronouns:
-He/Him (если надо — поменяем)
-
-⚡ Fun fact:
-I treat flaky tests like boss-fights — and I rarely lose 😄
 
 🛠️ Tech Stack
 Languages & Tools
@@ -42,8 +27,6 @@ CI/CD & Infrastructure
 Other Instruments
 <p> <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" height="30"/> </p>
 📊 GitHub Stats
-<p align="left"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+<p align="left"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OlegZXCV1&theme=tokyonight" /> </p>
 🔥 Most Used Languages
-<p align="left"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p>
-🌐 Connect with Me
-<p> <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="YOUR_TELEGRAM"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a> <a href="YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> </p>
+<p align="left"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegZXCV1&layout=compact&theme=tokyonight" /> </p>

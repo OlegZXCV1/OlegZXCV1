@@ -1,7 +1,9 @@
 👋 Hi, I'm the Senior QA Automation Engineer (SDET)
 
 🔹 7+ years in FinTech, Telecom, and Enterprise testing
+
 🔹 Specializing in Java-based test automation, CI/CD, scalable frameworks, and quality architecture
+
 🔹 Passionate about clean code, reliability, and automation excellence
 
 🔭 I’m currently working on:
